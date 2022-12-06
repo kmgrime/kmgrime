@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Kjell-Magnus 👋</h2>
 <h4 align="left">Cloud Engineer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgrime&label=Profile%20views&color=00f55e&style=flat" alt="kmgrime" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgrime&label=Profile%20views&color=00f55e&style=flat" alt="kmgrime" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmgrime&count_private=true&show_icons=true&theme=monokai&locale=en" alt="kmgrime" /></p>
 
