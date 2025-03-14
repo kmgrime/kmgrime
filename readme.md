@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 😄 I'm a Senior Cloud Engineer passionate about 
 ---
 
 ### 📈 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmgrime&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmgrime&show_icons=true&theme=monokai)
 
 ---
 
