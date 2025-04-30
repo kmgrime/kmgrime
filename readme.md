@@ -14,11 +14,6 @@ Welcome to my GitHub profile! 😄 I'm a Senior Cloud Engineer passionate about 
 
 ---
 
-### 📈 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmgrime&show_icons=true&theme=monokai)
-
----
-
 ### 🌟 My Projects:
 - 🔗 [Bicep Scanner](https://github.com/kmgrime/bicep-api-scanner) - Scans the Bicep code for outdated API's, can do more with bicepconfig.json
 - 🔗 [Discord Bot](https://github.com/kmgrime/pybot_discord) - A Discord bot with responses
