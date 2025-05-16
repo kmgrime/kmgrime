@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Kjell-Magnus
 
-Welcome to my GitHub profile! 😄 I'm a Senior Cloud Engineer passionate about developing platforms and containers.
+Welcome to my GitHub profile! 😄 I'm a Senior Platform Engineer passionate about developing platforms and containers.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 😄 I'm a Senior Cloud Engineer passionate about 
 - 🌍 Location: Oslo
 - 💻 Currently working on: Kubernetes and Azure
 - 💡 Learning: Python
-- 📚 Fun fact: That aint fun!
+- 📚 Fun fact: I also like to read.
 
 ---
 
