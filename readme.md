@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 😄 I'm a Senior Platform Engineer passionate abo
 - 🌍 Location: Oslo
 - 💻 Currently working on: Kubernetes and Azure
 - 💡 Learning: Python
-- 📚 Fun fact: I also like to read.
+- 📚 Fun fact: I also like to read
 
 ---
 
